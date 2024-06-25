@@ -1,16 +1,23 @@
-## Hi there 👋
+# Александр Топальский
+Backend developer.
 
-<!--
-**FloresI1/FloresI1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: [Telegram](https://t.me/engineer_ru1)
+- 🌍 Location: Murmansk and Moscow
 
-Here are some ideas to get you started:
+## 1. Summary:
+Backend developer with 2 years of experience. Actively studying new technologies and libraries. Experienced in all stages of product development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2. Education:
+- 2022 - 2025
+  MAGU College
+
+## 3. Skills:
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB, Redis)
+- Docker
+- Http, REST, gRPC
+- Unit testing
+- Gitlab CI/CD
+- Telegram/Discord bot development
+- GO
+- Java
