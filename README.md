@@ -9,7 +9,7 @@ Backend developer with 2 years of experience. Actively studying new technologies
 
 ## 2. Education:
 - 2022 - 2025
-  MAGU College
+  MAU UNIVERSITY
 
 ## 3. Skills:
 - SQL (PostgreSQL, MySQL)
