@@ -5,7 +5,7 @@ Backend developer.
 - 🌍 Location: Murmansk and Moscow
 
 ## 1. Summary:
-Backend developer with 2 years of experience. Actively studying new technologies and libraries. Experienced in all stages of product development.
+Backend developer. Actively studying new technologies and libraries. Experienced in all stages of product development.
 
 ## 2. Education:
 - 2022 - 2025
