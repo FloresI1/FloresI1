@@ -2,7 +2,7 @@
 Backend developer.
 
 - 📫 How to reach me: [Telegram](https://t.me/engineer_ru1)
-- 🌍 Location: Murmansk and Moscow
+- 🌍 Location: Murmansk,Moscow,SPb.
 
 ## 1. Summary:
 Backend developer. Actively studying new technologies and libraries. Experienced in all stages of product development.
