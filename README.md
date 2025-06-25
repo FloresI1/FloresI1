@@ -1,7 +1,7 @@
 # Александр Топальский
 Backend developer.
 
-- 📫 How to reach me: ([Telegram](https://t.me/enginer_ru51)
+- 📫 How to reach me: [Telegram](https://t.me/enginer_ru51
 - 🌍 Location: Murmansk,Moscow,SPb.
 
 ## 1. Summary:
